@@ -3,7 +3,7 @@ Data and code for Nishant's 2023 Senior Thesis
 
 PYTHON FILES
 1. spanningtrees: calculating and plotting various spanning trees on the airport network (Section 3.1)
-2. hubs: single-objective hub selection, mult-objective hub selection, and hub creation (Sections 3.2, 3.3)
+2. hubs: single-objective hub selection, multi-objective hub selection, and hub creation (Sections 3.2, 3.3)
 3. genericmodel: GUROBI optimization for generic hub selection model (Section 3.4)
 
 DATA FILES (which are accessed by python code)
